@@ -43,4 +43,5 @@ run the ipython notebook on EMR cluster.
 
 
 Example screenshots:
-![]('../screenshots/screenshot_songplays.png')
+
+![](https://cdn.jsdelivr.net/gh/lipengyuan1994/image-host@master/uPic/2022012723425216433449721643344972402eA3dRRscreenshot_songplays.png)
